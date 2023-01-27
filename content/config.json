@@ -1,0 +1,35 @@
+{
+  "title": "marcusposey.co",
+  "url": "https://marcusposey.co",
+  "subtitle": "Undergraduate student at Cornell University.",
+  "copyright": "© 2023 Marcus Posey",
+  "googleAnalyticsId": "UA-73379983-2",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "Marcus Posey",
+    "photo": "/photo.jpeg",
+    "bio": "Undergraduate student at Cornell University.",
+    "contacts": {
+      "rss": "rss.xml",
+      "email": "mep296@cornell.edu",
+      "github": "mposey",
+      "twitter": "marcusposey_"
+    }
+  }
+}
